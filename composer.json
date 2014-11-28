@@ -1,0 +1,16 @@
+{
+  "name":"clockworkgeek/adminlocale",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "homepage":"https://github.com/clockworkgeek/Magento-Admin-Locale",
+  "description":"Saves each admin user's preferred language/locale for when they next log on.",
+  "authors":[
+    {
+      "name":"Daniel Deady",
+      "email":"daniel.deady@knectar.com"
+    }
+  ],
+  "suggest":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
